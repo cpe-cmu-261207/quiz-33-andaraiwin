@@ -20,7 +20,6 @@ export default function Home() {
 
         <PostOwner />
         <Comment />
-        <Reply />
       </div>
     </div>
   );
